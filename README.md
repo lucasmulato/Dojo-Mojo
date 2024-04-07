@@ -1,6 +1,6 @@
-# Welcome to Mojo-dojo 🔥
+# Welcome to Dojo-Mojo 🔥
 
-Hello there! Mojo Dojo is a documentation of my journey exploring the fascinating world of Machine Learning, Deep Learning and some math, using the Mojo language.
+Hello there! Dojo-Mojo is a documentation of my journey exploring the fascinating world of Machine Learning, Deep Learning and some math, using the Mojo language. (This repo is my dojo in the fight against AI revolution!!!)
 
 ## Mathematics in Machine Learning
 
